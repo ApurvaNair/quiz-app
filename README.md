@@ -14,6 +14,9 @@ A gamified quiz app built with Flutter. It includes score tracking, streaks, and
 
 ## Demo Video
 
+Here's a demo video of the app
+https://drive.google.com/file/d/1Xs6Ns6TkG-jsufY-N_Lq8VhIhaggLauQ/view?usp=drive_link
+
 ## Setup Instructions
 1. Clone the repo
    git clone https://github.com/ApurvaNair/quiz-app
